@@ -1,3 +1,4 @@
+#Simple Python code
 x = 34 - 23   # A comment.
 y = "Hello"  # Another one.
 z = 3.45
